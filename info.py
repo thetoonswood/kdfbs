@@ -44,14 +44,14 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "EvaMaria")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/kdbotz_support')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/kd_botz')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'kdbotz_Support')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/thetoonswood')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/toonswood')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'thetoonswood')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/How_To_Download_MDisk_Links/10')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/toonswood')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
@@ -61,10 +61,10 @@ RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', 0))
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "[{file_name}](https://t.me/Movies_Studioo)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Mh_request)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/movieshouse8)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ᴋᴅ ʙᴏᴛᴢ](https://t.me/kd_botz)</b>")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "[{file_name}](https://t.me/toonswood)\n\n<b>•────•────────•────•\n📌 Request Group​ : [Click Here](https://t.me/thetoonswood)\n🎬 Movies Channel​ : [Click Here](https://t.me/toonswood)\n•────•────────•────•\n\n©️ Powered By : [ToonsWood.In](https://t.me/toonswood)</b>")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
-IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>{mention}'s Qᴜᴇʀʏ ☞ <code>{query}</code>\n\n<b>🏷 Tɪᴛʟᴇ</b> : <a href={url}>{title}</a>\n\n🌟 Rᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10\n💀 Rᴇʟᴇᴀsᴇ :  <b>{release_date}</b> <b>{countries}</b>\n\n🎭 Gᴇɴʀᴇs : <b>#{genres}</b></b>\n\n<b>🔅 Pᴏᴡᴇʀᴇᴅ Bʏ : {message.chat.title}</b>")
-KD_IMDB_TEMPLATE = environ.get("KD_IMDB_TEMPLATE", "<b><b>🏷 Tɪᴛʟᴇ</b> : <a href={url}>{title}</a>\n\n🌟 Rᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10\n💀 Rᴇʟᴇᴀsᴇ :  <b>{release_date}</b> <b>{countries}</b>\n\n🎭 Gᴇɴʀᴇs : <b>{genres}</b></b>\n\n<b>📖 Sᴛᴏʀʏ Lɪɴᴇ :</b> <code>{plot}</code>")
+IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>{mention}'s Query ☞ <code>{query}</code>\n\n<b>🏷 Title</b> : <a href={url}>{title}</a>\n\n🌟 Rating : <a href={url}/ratings>{rating}</a> / 10\n💀 Release :  <b>{release_date}</b> <b>{countries}</b>\n\n🎭 Genres : <b>#{genres}</b></b>\n\n<b>🔅 Powered By : {message.chat.title}</b>")
+KD_IMDB_TEMPLATE = environ.get("KD_IMDB_TEMPLATE", "<b><b>🏷 Title</b> : <a href={url}>{title}</a>\n\n🌟 Rating : <a href={url}/ratings>{rating}</a> / 10\n💀 Release :  <b>{release_date}</b> <b>{countries}</b>\n\n🎭 Genres : <b>{genres}</b></b>\n\n<b>📖 Story Line :</b> <code>{plot}</code>")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)

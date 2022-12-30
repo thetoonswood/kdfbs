@@ -1,46 +1,46 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʟʟᴏ {}
+    START_TXT = """<b>Hello {}
 
-ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
-ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
-ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.</b>"""
+I Can Provide Movies And Series,
+Just Add Me To Your Group And Enjoy.
+I Work On Both Group And PM (For Owner Only).</b>"""
 
-    HELP_TXT = """<b>Hᴇʏ {}
+    HELP_TXT = """<b>Hey {}
 
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
+    ABOUT_TXT = """<b>✯ My Name : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/kunal_nagar_01>𒆜 𝖪ᴜɴᴀʟ ࿐</a></b>
+<b>✯ Creator : <a href=https://t.me/toonswood>ToonsWood</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/kd_botz>KD Bᴏᴛᴢ ⚡</a></b>
+<b>✯ Updates : <a href=https://t.me/toonswood>ToonsWood</a></b>
 
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
+<b>✯ Build Status : ᴠ1.0 [Stable]</b>"""
 
     SOURCE_TXT ="""
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>This Is An Private Project Of ToonsWood.In.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://github.com/kdbotz/LUCIFER>DEVIL LUCIFER</a></b>
+- Source - <a href=https://t.me/toonswood>ToonsWood</a></b>
 """
  
-    MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
-- ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
-<b>Nᴏᴛᴇ:</b>
-1. ᴛʜɪꜱ ʙᴏᴛ ꜱʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟᴇɢᴇ.
-2. ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴀᴅᴅ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ.
-3. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏꜰ 64 ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.
+    MANUELFILTER_TXT = """Help: <b>Filters</b>
+- Filter IS A Feature Were Users Can Set Automated Replies For A Particular Keyword And I Will Respond Whenever A Keyword Is Found In The Message.
+<b>Note:</b>
+1. This Bot Should Have Admin Privilege.
+2. Only Admins Can Add Filters In A Chat.
+3. Alert Buttons Have a Limit Of 64 Characters.
 
-<u><b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b></u>
-• /filter - <code>ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
-• /filters - <code>ʟɪꜱᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀꜱ ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
-• /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
-• /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>
+<u><b>Commands And Usage:</b></u>
+• /filter - <code>Add A Filter In A Chat</code>
+• /filters - <code>List All The Filters Of A Chat</code>
+• /del - <code>Delete A Specific Filter In A Chat</code>
+• /delall - <code>Delete The Whole Filters In A Chat (Chat Owner Only)</code>
 
-~ Aᴅᴅ ᴛʜᴇ ʙᴏᴛ ᴀs ᴀᴅᴍɪɴ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
-~ Usᴇ /connect ᴀɴᴅ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴇ ʙᴏᴛ.
-~ Usᴇ /settings ᴏɴ ʙᴏᴛ's PM ᴀɴᴅ ᴛᴜʀɴ ᴏɴ/ᴏғғ Aᴜᴛᴏ Dᴇʟᴇᴛᴇ & Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀs ᴏɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ."""
+~ Add The Bot As Admin On Your Group.
+~ Use /connect And Connect Your Group To The Bot.
+~ Use /settings On Bot's PM And Turn On/Off Auto Delete & Manual Filters On The Settings Menu."""
 
-    BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
+    BUTTON_TXT = """Help: <b>Buttons</b>
 
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
 
@@ -50,7 +50,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/kd_botz)</code>
+<code>[Button Text](buttonurl:https://t.me/toonswood)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -112,7 +112,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/kd_botz>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ᴋᴅ ʙᴏᴛᴢ</a></b>"""
+<b><a href=https://t.me/toonswood>Maintained By ToonsWood.In</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -134,7 +134,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @KD_Botz ]─────⍟</b>"""
+<b>⍟────[ @ToonsWood ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -190,7 +190,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @KDBotz_Support</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ @TheToonsWood</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
@@ -199,9 +199,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @KDBotz_Support</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 𝖪ᴜɴᴀʟ ࿐『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Kunal_Nagar_01
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/x_kunal_01'>𝖪ᴜɴᴀʟ ࿐</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ToonsWood『🇮🇳』
+• ᴜꜱᴇʀɴᴀᴍᴇ : @ToonsWood
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ : <a href='t.me/thetoonswood'>Chat Group</a></b>
 """
 
     KD_IMDB = """
@@ -229,8 +229,8 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @KDBotz_Support</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/MoviesHouse8/1 
-https://t.me/MoviesHouse8/9</code>
+<code>/batch https://t.me/toonswood/1 
+https://t.me/toonswood/9</code>
 """
 
     KD_CNL = """
@@ -334,7 +334,7 @@ https://t.me/MoviesHouse8/9</code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :- KD Botz
+Powered by :- ToonsWood.In
 """
 
     SPLMD = """
@@ -348,7 +348,7 @@ sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
 
 🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
 
-Powered by :- KD Botz
+Powered by :- ToonsWood.In
 """
     
     REQUEST_TXT = """
