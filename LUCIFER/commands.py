@@ -22,10 +22,11 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
+                    InlineKeyboardButton('How To Download', url='https://t.me/toonswood')
+                  ],[
                     InlineKeyboardButton('Updates', url='https://t.me/toonswood'),
                     InlineKeyboardButton('Support', url='https://t.me/thetoonswood')
-                    InlineKeyboardButton('How To Download', url='https://t.me/toonswood')
-                  ]]
+                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         kd = await message.reply_photo(
         photo=random.choice(PICS),
