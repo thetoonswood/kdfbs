@@ -42,31 +42,31 @@ Here Is The Help For My Commands.</b>"""
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
+- This Bot Supports Both URL And Alert Inline Buttons.
 
-<b>ɴᴏᴛᴇ:</b>
-1. ᴛᴇʟᴇɢʀᴀᴍ ᴡɪʟʟ ɴᴏᴛ ᴀʟʟᴏᴡꜱ ʏᴏᴜ ᴛᴏ ꜱᴇɴᴅ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴄᴏɴᴛᴇɴᴛ, ꜱᴏ ᴄᴏɴᴛᴇɴᴛ ɪꜱ ᴍᴀɴᴅᴀᴛᴏʀʏ.
-2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
-3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
+<b>Note:</b>
+1. Telegram Will Not Allows You To Send Buttons Without Any Content, So Content Is Mandatory.
+2. This Bot Supports Buttons With Any Telegram Media Type.
+3. Buttona Should Be Properly Parsed As Markdown Format.
 
-<b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
+<b>URL Buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/toonswood)</code>
 
-<b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
+<b>Alert Buttons:</b>
+<code>[Button Text](buttonalert:This Is An Alert Message)</code>"""
 
-    AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
+    AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>Auto Filter</b>
 
-<u><b>Nᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b></u>
-1. ᴍᴀᴋᴇ ᴍᴇ ᴛʜᴇ ᴀᴅᴍɪɴ ᴏꜰ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪꜰ ɪᴛ'ꜱ ᴘʀɪᴠᴀᴛᴇ.
-2. ᴍᴀᴋᴇ ꜱᴜʀᴇ ᴛʜᴀᴛ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴅᴏᴇꜱ ɴᴏᴛ ᴄᴏɴᴛᴀɪɴꜱ ᴄᴀᴍʀɪᴘꜱ, ᴘᴏʀɴ ᴀɴᴅ ꜰᴀᴋᴇ ꜰɪʟᴇꜱ.
-3. ꜰᴏʀᴡᴀʀᴅ ᴛʜᴇ ʟᴀꜱᴛ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴍᴇ ᴡɪᴛʜ Qᴜᴏᴛᴇꜱ. ɪ'ʟʟ ᴀᴅᴅ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴍʏ ᴅʙ.
+<u><b>Note: File Index</b></u>
+1. Make Me The Admin Of Your Channel If It's Private.
+2. Make Sure That Your Channel Does Not Contains CamRips, Porn And Fake Files.
+3. Forward The Last Message To Me With Quotes. I'll Add All The Files In That Channel To My DB.
 
-<u><b>Nᴏᴛᴇ: AᴜᴛᴏFɪʟᴛᴇʀ</b></u>
-1. Aᴅᴅ ᴛʜᴇ ʙᴏᴛ ᴀs ᴀᴅᴍɪɴ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
-2. Usᴇ /connect ᴀɴᴅ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴇ ʙᴏᴛ.
-3. Usᴇ /settings ᴏɴ ʙᴏᴛ's PM ᴀɴᴅ ᴛᴜʀɴ ᴏɴ/ᴏғғ AᴜᴛᴏFɪʟᴛᴇʀ & Aᴜᴛᴏ Dᴇʟᴇᴛᴇ ᴏɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ.
-4. Usᴇ /set_template ᴛᴏ sᴇᴛ ʏᴘᴜʀ ᴄᴜsᴛᴏɴ ɪᴍᴅʙ ᴛᴇᴍᴘʟᴀᴛᴇ"""
+<u><b>Note: Auto Filter</b></u>
+1. Add The Bot As Admin On Your Group.
+2. Use /connect And Connect Your Group To The Bot.
+3. Use /settings On Bot's PM And Turn On/Off AutoFilter & Auto Delete On The Settings Menu.
+4. Use /set_template To Set Your Custom IMDb Template."""
 
     CONNECTION_TXT = """ʜᴇʟᴘ: <b>ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>
 
