@@ -114,25 +114,25 @@ Here Is The Help For My Commands.</b>"""
 
 <b><a href=https://t.me/toonswood>Maintained By ToonsWood.In</a></b>"""
 
-    ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
+    ADMIN_STATUS_TXT = """<b>⍟────[ Bot Status ]────⍟</b>
 
-<b>⏳ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
+<b>⏳ Bot Uptime:</b> <code>{}</code>
 
-<b>☣️ ᴄᴘᴜ:</b> <code>{}%</code>
+<b>☣️ CPU:</b> <code>{}%</code>
 
-<b>☢️ ʀᴀᴍ:</b> <code>{}%</code>
+<b>☢️ RAM:</b> <code>{}%</code>
 
-<b>📊 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
+<b>📊 Files Saved:</b> <code>{}</code>
 
-<b>👤 ᴜsᴇʀs:</b> <code>{}</code>
+<b>👤 Users:</b> <code>{}</code>
 
-<b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
+<b>👥 Groups:</b> <code>{}</code>
 
-<b>♻️ ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
+<b>♻️ Total Storage:</b> <code>512 MB</code>
 
-<b>🉐 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
+<b>🉐 Occupied/Used Storage:</b> <code>{}</code>
 
-<b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
+<b>🆓 Remaining/Free Storage:</b> <code>{}</code>
 
 <b>⍟────[ @ToonsWood ]─────⍟</b>"""
 
@@ -197,11 +197,11 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @TheToonsWood</b>
 """
     
     OWNER_INFO = """
-<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+<b>⍟───[ Owner Details ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ToonsWood『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @ToonsWood
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ : <a href='t.me/thetoonswood'>Chat Group</a></b>
+• Full Name : ToonsWood『🇮🇳』
+• Username : @ToonsWood
+• Permanent Chat Group Link : <a href='t.me/thetoonswood'>Chat Group</a></b>
 """
 
     KD_IMDB = """
