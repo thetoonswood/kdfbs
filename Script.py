@@ -307,14 +307,14 @@ If You Do No See The Requested Movie/Series File, Look At The Next Page
 
     MINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-Movie Request Format
+ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Name In Group
+ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
-Example : Chhota Bheem And The Throne Of Bali 2013
+ᴇxᴀᴍᴘʟᴇ : Black Adam 2022
 
-🚯 Don't Use ➠ ':(!,./)
+🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 """
 
     SINFO = """
