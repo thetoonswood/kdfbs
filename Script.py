@@ -243,78 +243,78 @@ https://t.me/toonswood/9</code>
 """
 
     FORCE_SUB = """
-**⚠️ ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟᴇs ⚠️
+**⚠️ Please Follow This Rules ⚠️
 
-ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ʏᴏᴜ.
+In Order To Get The Movie Requested By You.
 
-ʏᴏᴜ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ.
+You Will Have To Join Our Official Channel First.
 
-ᴀғᴛᴇʀ ᴛʜᴀᴛ ᴛʀʏ ᴀᴄᴄᴇssɪɴɢ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴛʀʏ ᴀɢᴀɪɴ.
+After That Try Accessing That Movie Then Click On The Try Again.
 
-ɪ'ʟʟ sᴇɴᴅ ʏᴏᴜ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ ᴘʀɪᴠᴀᴛᴇʟʏ.**
+I'll Send You That Movie Privately.**
 """
     
-    BANP_LOG_TXT = """<b>⍟ Bᴀɴɴᴇᴅ Usᴇʀ Lᴏɢs ⍟</b>
+    BANP_LOG_TXT = """<b>⍟ Banned User Logs ⍟</b>
 
-<b>Aᴅᴍɪɴ :</b> </b> <b>{}</b>
+<b>Admin :</b> </b> <b>{}</b>
 
-<b>Nᴀᴍᴇ :</b> <b>{}</b>
+<b>Name :</b> <b>{}</b>
 
-<b>Rᴇᴀsᴏɴ :</b> <code>{}</code>
+<b>Reason :</b> <code>{}</code>
 
 <b>⍟ #BannedUser ⍟</b>
 """
-    UNBANP_LOG_TXT = """<b>⍟ UɴBᴀɴɴᴇᴅ Usᴇʀ Lᴏɢs ⍟</b>
+    UNBANP_LOG_TXT = """<b>⍟ Unbanned User Logs ⍟</b>
 
-<b>Aᴅᴍɪɴ :</b> </b> <b>{}</b>
+<b>Admin :</b> </b> <b>{}</b>
 
-<b>Nᴀᴍᴇ :</b> <b>{}</b>
+<b>Name :</b> <b>{}</b>
 
 <b>⍟ #UnBannedUser ⍟</b>
 """
-    BANG_LOG_TXT = """<b>⍟ Bᴀɴɴᴇᴅ Gʀᴏᴜᴘ Lᴏɢs ⍟</b>
+    BANG_LOG_TXT = """<b>⍟ Banned Group Logs ⍟</b>
 
-<b>Cʜᴀᴛ ID :</b> <code>{}</code>
+<b>Chat ID :</b> <code>{}</code>
 
-<b>Rᴇᴀsᴏɴ :</b> <code>{}</code>
+<b>Reason :</b> <code>{}</code>
 
-<b>Aᴅᴍɪɴ :</b> </b> <b>{}</b>
+<b>Admin :</b> </b> <b>{}</b>
 
 <b>⍟ #BannedGroup ⍟</b>
 """
-    UNBANG_LOG_TXT = """<b>⍟ UɴBᴀɴɴᴇᴅ Gʀᴏᴜᴘ Lᴏɢs ⍟</b>
+    UNBANG_LOG_TXT = """<b>⍟ Unbanned Group Logs ⍟</b>
 
-<b>Cʜᴀᴛ ID :</b> <code>{}</code>
+<b>Chat ID :</b> <code>{}</code>
 
-<b>Aᴅᴍɪɴ :</b> </b> <b>{}</b>
+<b>Admin :</b> </b> <b>{}</b>
 
 <b>⍟ #UnBannedGroup ⍟</b>
 """
 
     REQINFO2 = """
-⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
+⚠ Information ⚠
 
-ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ
+If You Do No See The Requested Movie/Series File, Look At The Next Page
 """
 
     REQINFO = """
-⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
+⚠ Information ⚠
 
-ᴀꜰᴛᴇʀ 10 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ
+After 10 Minutes This Message Will Be Automatically Deleted
 
-ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ
+If You Do No See The Requested Movie/Series File, Look At The Next Page
 """
 
     MINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
+Movie Request Format
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
+Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Name In Group
 
-ᴇxᴀᴍᴘʟᴇ : Black Adam 2022
+Example : Chhota Bheem And The Throne Of Bali 2013
 
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
+🚯 Don't Use ➠ ':(!,./)
 """
 
     SINFO = """
@@ -322,46 +322,46 @@ https://t.me/toonswood/9</code>
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
+Go To Google ➠ Type Series Name ➠ Copy Correct Name ➠ Paste Copied Name In Group
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01E01 or Loki S01 E01
+Example : Chhota Bheem S01E01 or Motu Patlu S01 E01
 
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
+🚯 Don't Use ➠ ':(!,./)
 """
 
     PAGEINFO = """
-ᴘᴀɢᴇs ᴍᴇᴀɴs 10 ғɪʟᴇs ɪɴ ᴏɴᴇ ᴘᴀɢᴇ
+Pages Means 10 Files In One Page
 
-ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
+If you Not See Your Files On This Page Then Click On Next Page.
 
-Powered by :- ToonsWood.In
+Powered By :- ToonsWood.In
 """
 
     SPLMD = """
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
+Movie Request Format
 
-ᴇxᴀᴍᴘʟᴇ : Black Adam or Black Adam 2022
+Example : Chhota Bheem And Krishna or Chhota Bheem And The Throne Of Bali 2013
 
-sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
+Series Request Format
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01E01 or Loki S01 E01
+Example : Shiva S01E01 or Motu Patlu S01 E01
 
-🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
+🚯Don't Use ➠ ':(!,./)
 
-Powered by :- ToonsWood.In
+Powered By :- ToonsWood.In
 """
     
     REQUEST_TXT = """
-<u><b>📫 Rᴇǫᴜᴇsᴛ Dᴇᴛᴀɪʟs :</b></u>
+<u><b>📫 Request Details :</b></u>
 
-<b>🔖 Mᴇssᴀɢᴇ :</b><code>{}</code>
+<b>🔖 Message :</b><code>{}</code>
 
-<b>🕵️ Rᴇǫᴜᴇsᴛᴇᴅ Bʏ :</b> <b>{} [ <code>{}</code> ] </b>
+<b>🕵️ Requested By :</b> <b>{} [ <code>{}</code> ] </b>
 """
 
     REQUEST2_TXT = """
-<i><b>Yᴏᴜʀ Rᴇǫᴜᴇsᴛ Hᴀs Bᴇᴇɴ Aᴅᴅᴇᴅ!
-Pʟᴇᴀsᴇ Wᴀɪᴛ Fᴏʀ Sᴏᴍᴇ Tɪᴍᴇ.</b></i>
+<i><b>Your Request Has Been Added!
+Please Wait For Some Time.</b></i>
 """
 
     SGROUP_TXT = """
