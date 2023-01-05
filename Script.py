@@ -365,59 +365,59 @@ Please Wait For Some Time.</b></i>
 """
 
     SGROUP_TXT = """
-<b>Dᴇᴀʀ, {}
+<b>Dear, {}
 
-<code>{}</code> Rᴇsᴜʟᴛs Aʀᴇ Aʟʀᴇᴀᴅʏ Aᴠᴀɪʟᴀʙʟᴇ Fᴏʀ Yᴏᴜʀ Rᴇǫᴜᴇsᴛ <code>{}</code> Iɴ <a href=https://t.me/{}>Oᴜʀ Bᴏᴛ</a>.</b>
+<code>{}</code> Results Are Already Available For Your Request <code>{}</code> In <a href=https://t.me/{}>Our Bot</a>.</b>
 """
 
     DONE_UPLOAD = """
-Tʜᴇ Rᴇǫᴜᴇsᴛ Is Cᴏᴍᴘʟᴇᴛᴇᴅ !! Cʜᴇᴄᴋ Bᴏᴛ & Cʜᴀɴɴᴇʟ !!
+The Request Is Completed !! Check Bot & Channel !!
 """
 
     REQ_REJECT = """
-Tʜᴇ Rᴇǫᴜᴇsᴛ Is Rᴇᴊᴇᴄᴛᴇᴅ Mᴀʏʙᴇ Dᴜᴇ Tᴏ Sᴀᴍᴇ Rᴇǫᴜᴇsᴛ, Nᴏᴛ Iɴ Fᴏʀᴍᴀᴛ !!
+The Request Is Rejected Maybe Due To Same Request, Not In Format !!
 """
 
     REQ_NO = """
-Tʜᴇ Rᴇǫᴜᴇsᴛ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Mᴀʏʙᴇ Dᴜᴇ Tᴏ Nᴏᴛ Rᴇʟᴇᴀsᴇᴅ Oʀ Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ !!
+The Request Is Not Available Maybe Due To Not Released Or Not Available !!
 """
 
     DONE_ALREADY = """
-Tʜᴇ Rᴇǫᴜᴇsᴛ Is Aʟʀᴇᴀᴅʏ Uᴘʟᴏᴀᴅᴇᴅ !! Cʜᴇᴄᴋ Bᴏᴛ & Cʜᴀɴɴᴇʟ !!
+The Request Is Already Uploaded !! Check Bot & Channel !!
 """ 
     
     DONE_UPLOAD2 = """
-<b>Yᴏᴜʀ Rᴇǫᴜᴇsᴛ Sᴜᴄᴇssғᴜʟʟʏ Uᴘʟᴏᴀᴅᴇᴅ Sᴇᴀʀᴄʜ Aɢᴀɪɴ..🙃</b>
+<b>Your Request Is Successfully Uploaded Search Again..🙃</b>
 """
 
     REQ_REJECT2 = """
-<b>Rᴇǫᴜᴇsᴛ Rᴇᴊᴇᴄᴛᴇᴅ 🚫 !!
+<b>Request Rejected 🚫 !!
 
-Yᴏᴜʀ Rᴇǫᴜᴇsᴛ Aʟʀᴇᴀᴅʏ Mᴀʏʙᴇ Iɴ Tʜᴇ Rᴇǫᴜᴇsᴛ Lɪsᴛ Oʀ Yᴏᴜʀ Rᴇǫᴜᴇsᴛ Is Mᴀʟғᴏʀᴍᴀᴛᴛᴇᴅ. Kɪɴᴅʟʏ Rᴇǫᴜᴇsᴛ Aɢᴀɪɴ Oʀ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ Fᴏʀ Hᴇʟᴘ.</b>
+Your Request Already MAybe In The Request List Or Your Request Is Malformatted. Kindly Request Again Or Contact Admin For Help.</b>
 """
 
     REQ_NO2 = """
-<b>Sᴏʀʀʏ Yᴏᴜʀ Rᴇǫᴜᴇsᴛ Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ 😔,
-Kɪɴᴅʟʏ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ Fᴏʀ Hᴇʟᴘ.</b>
+<b>Sorry Your Request Is Not Available 😔,
+Kindly Contact Admin For Help.</b>
 """
 
     DONE_ALREADY2 = """
-<b>Rᴇǫᴜᴇsᴛ Aʟʀᴇᴀᴅʏ Uᴘʟᴏᴀᴅᴇᴅ ❗,
-Kɪɴᴅʟʏ Cʜᴇᴄᴋ Tʜᴇ Bᴏᴛ Bᴇғᴏʀᴇ Rᴇǫᴜᴇsᴛɪɴɢ.</b>
+<b>Request Already Uploaded ❗,
+Kindly Check The Bot Before Requesting.</b>
 """
 
     CAP_DLT_TXT = """
-<b>Tʜᴇ Rᴇꜱᴜʟᴛꜱ Fᴏʀ ☞ <code>{}</code></b>
+<b>The Results For ☞ <code>{}</code></b>
 
-<b>Rᴇǫᴜᴇsᴛᴇᴅ Bʏ ☞ {}</b>
+<b>Requested By ☞ {}</b>
 
-<b>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 𝟷𝟶 Mɪɴᴜᴛᴇs.</b>
+<b>‣ This Message Will Be Auto-Deleted After 10 Minutes.</b>
 """
 
     CAP_TXT = """
-<b>Tʜᴇ Rᴇꜱᴜʟᴛꜱ Fᴏʀ ☞ <code>{}</code></b>
+<b>The Results For ☞ <code>{}</code></b>
 
-<b>Rᴇǫᴜᴇsᴛᴇᴅ Bʏ ☞ {}</b>
+<b>Requested By ☞ {}</b>
 
-<u><b>Hᴇʏ Cʟɪᴄᴋ Oɴ Tʜᴇ Bᴜᴛᴛᴏɴ Bᴇʟᴏᴡ Tʜᴇ Fɪʟᴇs Yᴏᴜ Wᴀɴᴛ Aɴᴅ Sᴛᴀʀᴛ Tʜᴇ Bᴏᴛ.</b></u>
+<u><b>Hey Click On The Button Below The Files You Want And Start The Bot.</b></u>
 """
