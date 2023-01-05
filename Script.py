@@ -138,62 +138,62 @@ Here Is The Help For My Commands.</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
-Gʀᴏᴜᴘ = {} (<code>{}</code>)
+Group = {} (<code>{}</code>)
 
-Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
+Total Members = <code>{}</code>
 
-Aᴅᴅᴇᴅ Bʏ - {}</b>
+Added By - {}</b>
 """
     LOG_TEXT_P = """<b>#NewUser
     
-ID - <code>{}</code>
+Id - <code>{}</code>
 
-Nᴀᴍᴇ - {}</b>
+Name - {}</b>
 """
-    ALRT_TXT = """⚠️ 𝖧ᴇʏ !
+    ALRT_TXT = """⚠️ Hey !
     
-𝖲ᴇᴀʀᴄʜ 𝖸ᴏᴜʀ 𝖮ᴡɴ 𝖥ɪʟᴇ, 
+𝖲earch Your Own File 𝖸ᴏᴜʀ 𝖮ᴡɴ 𝖥ɪʟᴇ, 
     
-𝖣ᴏɴ'ᴛ 𝖢ʟɪᴄᴋ 𝖮ᴛʜᴇʀ𝗌 𝖱ᴇ𝗌ᴜʟᴛ𝗌 😬
-"""
-
-    OLD_ALRT_TXT = """⚠️ 𝖧ᴇʏ ! 
-    
-𝖸ᴏᴜ Aʀᴇ U𝗌ɪɴɢ Oɴᴇ Oғ Mʏ Oʟᴅ Mᴇ𝗌𝗌ᴀɢᴇ𝗌, 
-    
-Sᴇɴᴅ Tʜᴇ Rᴇǫᴜᴇ𝗌ᴛ Aɢᴀɪɴ
+Don't Click Other's Results 😬
 """
 
-    CUDNT_FND = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ
+    OLD_ALRT_TXT = """⚠️ 𝖧ey ! 
+    
+𝖸ou Are Using One Of My Old Messages, 
+    
+Send The Request Again
+"""
 
-ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ
+    CUDNT_FND = """<b>Sorry No File Were Found
 
-ʀᴇᴀᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs ꜰᴏʀ ʙᴇᴛᴛᴇʀ ʀᴇsᴜʟᴛs ☟</b>
+Check Your Spelling In Google And Try Again
+
+Read Instructions For Better Results ☟</b>
 """
 
     I_CUDNT = """
-<b>Sᴏʀʀʏ
+<b>Sorry
 
-I Cᴏᴜʟᴅ Nᴏᴛ Fɪɴᴅ Aɴʏᴛʜɪɴɢ Rᴇʟᴀᴛᴇᴅ Tᴏ Tʜᴀᴛ
-Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
+I Could Not Find Anything Related To That
+Please Check Your Spelling 🤧</b>
 """
 
-    I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
-ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...
+    I_CUD_NT = """I Couldn't Find Any Movie Related To {}.
+Please Check The Spelling On Google Or IMDb...
 """
 
-    MVE_NT_FND = """<b>Mᴏᴠɪᴇ Nᴏᴛ Fᴏᴜɴᴅ...
+    MVE_NT_FND = """<b>Movie Not Found...
     
-Rᴇᴀsᴏɴs
-𝟷) O.T.T Oʀ DVD Nᴏᴛ Rᴇʟᴇᴀsᴇᴅ
+Reasons
+𝟷) O.T.T Or DVD Not Released
 
-𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
+𝟸) Type Name With Year
 
-𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @TheToonsWood</b>
+𝟹) Movie Is Not Available In The Database
+Rᴇquest Here @TheToonsWood</b>
 """
 
-    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
+    TOP_ALRT_MSG = """Checking For Movie In Database...
 """
     
     OWNER_INFO = """
@@ -205,41 +205,41 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @TheToonsWood</b>
 """
 
     KD_IMDB = """
-<u><b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b></u>
+<u><b>Commands And Usage:</b></u>
 
-• /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ ꜱᴏᴜʀᴄᴇ.</code>
-• /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜꜱ ꜱᴏᴜʀᴄᴇꜱ.</code>
+• /imdb  - <code>Get The Film Information From IMDb Source.</code>
+• /search  - <code>Get The Film Information From Various Sources.</code>
 """
 
     KD_MISC = """
-<u><b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b></u>
+<u><b>Commands And Usage:</b></u>
 
-• /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code>
-• /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
+• /id - <code>Get ID Of A Specified User.</code>
+• /info  - <code>Get Information About A User.</code>
 """
 
     KD_FILSTR = """
-<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Fɪʟᴇ Sᴛᴏʀᴇ Mᴏᴅᴜʟᴇ ⍟</b>
+<b>⍟ Welcome To ToonsWood File Store Module ⍟</b>
 
-» ᴀ ᴍᴏᴅᴜʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ ғᴏʀ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ.
+» A Module To Get Shareable Link For Any Telegram Media.
 
-<u><b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b></u>
+<u><b>Commands And Usage:</b></u>
 
-• /link <code>- ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ.<code>
-• /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
+• /link <code>- Replay To Any Telegram Media.<code>
+• /batch <code>- To Create Link For Multiple Media.<code>
 
-<b>Exᴀᴍᴘʟᴇ:</b>
+<b>Example:</b>
 <code>/batch https://t.me/toonswood/1 
 https://t.me/toonswood/9</code>
 """
 
     KD_CNL = """
-<b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟</b>
+<b>⍟ Channels & Groups Module ⍟</b>
 
-<b>🎬 Cᴏᴍᴘʟᴇᴛᴇ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛɪɴɢ Gʀᴏᴜᴘ.
-🚦 Aʟʟ Lᴀɴɢᴜᴀɢᴇs Mᴏᴠɪᴇs & Sᴇʀɪᴇs.
-🗣️ Bᴏᴛ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.
-📢 Bᴏᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ.</b>
+<b>🎬 Complete Movie Requesting Group.
+🚦 All Languages Movies & Series.
+🗣️ Bot Support Group.
+📢 Bot Updates Channel.</b>
 """
 
     FORCE_SUB = """
