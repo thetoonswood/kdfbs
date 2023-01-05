@@ -313,7 +313,6 @@ Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Movie Na
 Example : Chhota Bheem Aur Krishna
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
-<b>Powered By :- ToonsWood.In</b>
 """
 
 
@@ -324,7 +323,6 @@ Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Series N
 Example : Chhota Bheem S01E01 or S01 E01
 
 🚯 Don't Use ➠ ':(!,./)
-<b>Powered By :- ToonsWood.In</b>
 """
 
 
