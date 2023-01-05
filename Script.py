@@ -310,28 +310,28 @@ If You Do No See The Requested Movie/Series File, Look At The Next Page
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Name In Group
+ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
 Example : Chhota Bheem And The Throne Of Bali 2013
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-<b>Powered By :- ToonsWood.In</b>
-"""
+<b>Powered By :- ToonsWood.In</b>"""
+
 
     SINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-Go To Google ➠ Type Series Name ➠ Copy Correct Name ➠ Paste Copied Name In Group
+ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
 Example : Chhota Bheem S01E01 or Motu Patlu S01 E01
 
 🚯 Don't Use ➠ ':(!,./)
 
-<b>Powered By :- ToonsWood.In</b>
-"""
+<b>Powered By :- ToonsWood.In</b>"""
+
 
     PAGEINFO = """
 Pages Means 10 Files In One Page
