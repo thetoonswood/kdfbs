@@ -306,28 +306,25 @@ If You Do No See The Requested Movie/Series File, Look At The Next Page
 """
 
     MINFO = """
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+⋯⋯ Movie Request Format ⋯⋯
 
-ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠
-ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
+Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Movie Name In Group
+
 Example : Chhota Bheem Aur Krishna
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
+<b>Powered By :- ToonsWood.In</b>
 """
 
 
     SINFO = """
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+⋯⋯ Series Request Format ⋯⋯
 
-ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠
-ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
-Example : Chhota Bheem S01E01 or Motu Patlu S01 E01
+Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Series Name In Group
+Example : Chhota Bheem S01E01 or S01 E01
 
 🚯 Don't Use ➠ ':(!,./)
+<b>Powered By :- ToonsWood.In</b>
 """
 
 
@@ -342,11 +339,11 @@ Powered By :- ToonsWood.In
     SPLMD = """
 Movie Request Format
 
-Example : Chhota Bheem And Krishna or Chhota Bheem And The Throne Of Bali 2013
+Example : Chhota Bheem And Krishna
 
 Series Request Format
 
-Example : Shiva S01E01 or Motu Patlu S01 E01
+Example : Shiva S01E01 or S01 E01
 
 🚯Don't Use ➠ ':(!,./)
 
