@@ -316,7 +316,8 @@ Example : Chhota Bheem And The Throne Of Bali 2013
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-<b>Powered By :- ToonsWood.In</b>"""
+<b>Powered By :- ToonsWood.In</b>
+"""
 
 
     SINFO = """
@@ -330,7 +331,8 @@ Example : Chhota Bheem S01E01 or Motu Patlu S01 E01
 
 🚯 Don't Use ➠ ':(!,./)
 
-<b>Powered By :- ToonsWood.In</b>"""
+<b>Powered By :- ToonsWood.In</b>
+"""
 
 
     PAGEINFO = """
