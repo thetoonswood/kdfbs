@@ -310,9 +310,9 @@ If You Do No See The Requested Movie/Series File, Look At The Next Page
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
+Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Name In Group
 
-ᴇxᴀᴍᴘʟᴇ : Black Adam 2022
+Example : Chhota Bheem And The Throne Of Bali 2013
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 """
