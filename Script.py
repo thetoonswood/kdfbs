@@ -320,6 +320,7 @@ Example : Chhota Bheem Aur Krishna
 ⋯⋯ Series Request Format ⋯⋯
 
 Go To Google ➠ Type Movie Name ➠ Copy Correct Name ➠ Paste Copied Series Name In Group
+
 Example : Chhota Bheem S01E01 or S01 E01
 
 🚯 Don't Use ➠ ':(!,./)
