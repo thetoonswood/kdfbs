@@ -558,7 +558,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Connection', callback_data='coct'),
             InlineKeyboardButton('File Store', callback_data='kd_filstr')
         ], [
-            InlineKeyboardButton('IMBd', callback_data='kd_imdb'),
+            InlineKeyboardButton('IMDb', callback_data='kd_imdb'),
             InlineKeyboardButton('Misc', callback_data='kd_misc')
         ], [
             InlineKeyboardButton('Go To Home', callback_data='start')
