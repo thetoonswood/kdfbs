@@ -488,7 +488,7 @@ async def settings(client, message):
             ],
             [
                 InlineKeyboardButton(
-                    'IMBd Poster',
+                    'IMDb Poster',
                     callback_data=f'setgs#imdb#{settings["imdb"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
