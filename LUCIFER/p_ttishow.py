@@ -63,8 +63,8 @@ async def save_group(bot, message):
                     except:
                         pass
                 temp.MELCOW['welcome'] = await message.reply_photo(
-                photo="https://telegra.ph/file/54fb5528e309ff263a7ec.jpg",
-                caption=f"<b>🔖 ʜᴇʟʟᴏ ᴍʏ ғʀɪᴇɴᴅ {u.mention},</b>\n<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {message.chat.title} !</b>\n\n<b>read Group Rules For Know More...</b>",
+                photo="https://te.legra.ph/file/e0a84a64172698a94ee81.jpg",
+                caption=f"<b>🔖 Hello My Friend {u.mention},</b>\n<b>Welcome To {message.chat.title} !</b>\n\n<b>Read Group Rules For Know More...</b>",
                 reply_markup=InlineKeyboardMarkup(buttons))
                 await asyncio.sleep(60)
                 await temp.MELCOW['welcome'].delete()
